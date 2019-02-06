@@ -2,7 +2,8 @@
 
 Available Options
 
-pet "NAME" {
+pet {
+  name = "pg-13 names only please"
   species = "penguin", "cat", "dog", "mouse"
   scene = "ice mountains", "forest", "plains", "city"
 }
@@ -18,7 +19,8 @@ settings {
 
 // Example Config
 
-pet "Mochi" {
+pet {
+  name    = "Mochi"
   species = "cat"
   scene   = "city"
 }
