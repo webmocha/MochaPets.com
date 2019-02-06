@@ -1,0 +1,2 @@
+# MochaPets.conf
+MochaPets configuration
