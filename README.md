@@ -1,4 +1,4 @@
-# MochaPets.conf
+# [MochaPets.com](https://MochaPets.com)
 
 MochaPets configuration
 

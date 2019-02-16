@@ -4,7 +4,7 @@ Available Options
 
 pet {
   name = "pg-13 names only please"
-  species = "penguin", "cat", "dog", "mouse"
+  species = "penguin", "fox", "koala"
   scene = "ice mountains", "forest", "plains", "city"
 }
 
@@ -21,7 +21,7 @@ settings {
 
 pet {
   name    = "Mochi"
-  species = "cat"
+  species = "fox"
   scene   = "city"
 }
 
