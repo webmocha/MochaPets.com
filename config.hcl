@@ -3,16 +3,16 @@
 Available Options
 
 pet {
-  name = "pg-13 names only please"
   species = "penguin", "fox", "koala"
-  scene = "ice mountains", "forest", "plains", "city"
 }
 
-settings {
-  social {
-    twitter = false | true (default)
-    facebook = false | true (default)
-  }
+scene = "ice mountains", "forest", "plains", "city"
+
+social {
+  github = "username"
+  twitter = "username"
+  codepen = "username"
+  facebook = "username"
 }
 
 */
@@ -20,14 +20,14 @@ settings {
 // Example Config
 
 pet {
-  name    = "Mochi"
   species = "fox"
-  scene   = "city"
 }
 
-settings {
-  social {
-    twitter  = true
-    facebook = true
-  }
+scene = "city"
+
+social {
+  github = null
+  twitter = null
+  codepen = null
+  facebook = null
 }
